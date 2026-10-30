@@ -1,0 +1,5 @@
+D:\30Bai\BTH03_Solution\Pattern32_PreserveWholeObject\obj\Debug\net10.0\Pattern32_PreserveWholeObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\30Bai\BTH03_Solution\Pattern32_PreserveWholeObject\obj\Debug\net10.0\Pattern32_PreserveWholeObject.AssemblyInfoInputs.cache
+D:\30Bai\BTH03_Solution\Pattern32_PreserveWholeObject\obj\Debug\net10.0\Pattern32_PreserveWholeObject.AssemblyInfo.cs
+D:\30Bai\BTH03_Solution\Pattern32_PreserveWholeObject\obj\Debug\net10.0\Pattern32_PreserveWholeObject.csproj.CoreCompileInputs.cache
+D:\30Bai\BTH03_Solution\Pattern32_PreserveWholeObject\obj\Debug\net10.0\Pattern32_PreserveWholeObject.sourcelink.json
