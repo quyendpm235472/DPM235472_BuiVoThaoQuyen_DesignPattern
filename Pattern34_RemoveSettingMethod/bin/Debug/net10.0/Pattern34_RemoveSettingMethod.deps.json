@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Pattern34_RemoveSettingMethod/1.0.0": {
+        "runtime": {
+          "Pattern34_RemoveSettingMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pattern34_RemoveSettingMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
